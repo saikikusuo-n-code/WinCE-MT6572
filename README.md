@@ -6,6 +6,21 @@
 
 This BSP is partily based off of the TMDSEVM3530 BSP from Texas Instruments and MTK kernel sources.
 
+## Testing notes:
+
+Testing device used is Sagereal GM2806 (sold under different brands and various configurations).
+
+### Specifications 
+
+| Component     | Model         | Information   |
+| ------------- | ------------- | ------------- |
+| SoC | MediaTek MT6572 | ARMv7 dual core at 1.2GHz, features various IO for display, cellular, sound etc. |
+| Graphics | Mali 400MP | None |
+| Display | CM-280A75-B-0x | 16-bit 8080 ST7789V 2.8" |
+| Storage | ESMT FM6BD4G2GXB | 512MB NAND + 256MB LPDDR2 |
+| I/O | microUSB | None |
+| Camera | Unknown | Uses a GC2145 sensor | 
+
 ## Current states:
 
 | Component     | State         | Information   |
