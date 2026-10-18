@@ -8,8 +8,8 @@ This BSP is partily based off of the TMDSEVM3530 BSP from Texas Instruments and 
 
 ## Current states:
 
-| Component | State | Information |
-| ------------- | ------------- |
+| Component     | State         | Information   |
+| ------------- | ------------- | ------------- |
 | Bootloader | ❌ | Not started yet |
 | Storage | ❌ | Not started yet; the testing device used uses NAND; if you have an EMMC phone, contribute here |
 | Display | ❌ | Not started yet; the testing device used uses parallel display; if you have one with MIPI, contribute here |
