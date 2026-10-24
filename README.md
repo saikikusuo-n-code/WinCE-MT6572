@@ -1,6 +1,7 @@
 # Windows Embedded Compact 7 BSP for MT6572
 
-# ⚠️ Some parts of the code might be AI assisted or generated; if you do not like this, consider looking for a similar project somewhere else :) ⚠️ 
+# 1. ⚠️ Some parts of the code might be AI assisted or generated; if you do not like this, consider looking for a similar project somewhere else :) ⚠️ 
+# 2. Currently the source tree is a mess; I will be reorganizing it later on.
 
 ## IMPORTANT!
 
