@@ -25,10 +25,10 @@ Testing device used is Sagereal GM2806 (sold under different brands and various 
 
 | Component     | State         | Information   |
 | ------------- | ------------- | ------------- |
-| Bootloader | ❌ | Not started yet |
-| Storage | ❌ | Not started yet; the testing device used uses NAND; if you have an EMMC phone, contribute here |
-| Display | ❌ | Not started yet; the testing device used uses parallel display; if you have one with MIPI, contribute here |
-| Inputs | ❌ | Not started yet; the testing device is keypad-driven; if yours has touchscreen, contribute here |
-| Graphics | ❌ | Not started yet |
+| Bootloader | ✅ | Boots on top of LK, now needs flash read added |
+| Storage | ❓ | Not tested; added in bootloader |
+| Display | ❓ | Initializes; updating does not work currently |
+| Inputs | ❓ | Not tested; added in bootloader |
+| Graphics | ❓ | See Display |
 | Power | ❌ | Not started yet |
 | Sound | ❌ | Not started yet |
